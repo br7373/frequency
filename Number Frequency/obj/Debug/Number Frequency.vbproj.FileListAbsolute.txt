@@ -1,0 +1,12 @@
+C:\Users\zcj\Desktop\VB\Number Frequency\Number Frequency\bin\Debug\Number Frequency.exe.config
+C:\Users\zcj\Desktop\VB\Number Frequency\Number Frequency\bin\Debug\Number Frequency.exe
+C:\Users\zcj\Desktop\VB\Number Frequency\Number Frequency\bin\Debug\Number Frequency.pdb
+C:\Users\zcj\Desktop\VB\Number Frequency\Number Frequency\bin\Debug\Number Frequency.xml
+C:\Users\zcj\Desktop\VB\Number Frequency\Number Frequency\obj\Debug\Number Frequency.vbprojAssemblyReference.cache
+C:\Users\zcj\Desktop\VB\Number Frequency\Number Frequency\obj\Debug\Number_Frequency.Form1.resources
+C:\Users\zcj\Desktop\VB\Number Frequency\Number Frequency\obj\Debug\Number_Frequency.Resources.resources
+C:\Users\zcj\Desktop\VB\Number Frequency\Number Frequency\obj\Debug\Number Frequency.vbproj.GenerateResource.cache
+C:\Users\zcj\Desktop\VB\Number Frequency\Number Frequency\obj\Debug\Number Frequency.vbproj.CoreCompileInputs.cache
+C:\Users\zcj\Desktop\VB\Number Frequency\Number Frequency\obj\Debug\Number Frequency.exe
+C:\Users\zcj\Desktop\VB\Number Frequency\Number Frequency\obj\Debug\Number Frequency.xml
+C:\Users\zcj\Desktop\VB\Number Frequency\Number Frequency\obj\Debug\Number Frequency.pdb
